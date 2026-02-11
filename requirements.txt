@@ -85,7 +85,7 @@ tensorflow-gpu==2.9.3
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
-tornado==6.0.2
+tornado==6.5
 traitlets==4.3.2
 urllib3==2.6.3
 wcwidth==0.1.7
