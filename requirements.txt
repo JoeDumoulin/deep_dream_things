@@ -68,7 +68,7 @@ PyWavelets==1.0.3
 PyYAML==5.1.1
 pyzmq==18.0.1
 qtconsole==4.5.1
-requests==2.22.0
+requests==2.32.4
 s3transfer==0.2.1
 scikit-image==0.15.0
 scikit-learn==0.21.2
