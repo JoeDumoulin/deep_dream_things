@@ -19,7 +19,7 @@ google-pasta==0.1.7
 graphviz==0.11
 grpcio==1.53.2
 h5py==2.9.0
-idna==2.8
+idna==3.7
 imageio==2.5.0
 ipykernel==5.1.1
 ipython==8.10.0
